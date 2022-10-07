@@ -1,0 +1,24 @@
+.formData{
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+    display: flex;
+    justify-content:start;
+    align-items: center;
+    background-color:aquamarine;
+}
+
+form{
+    margin: 25px;
+}
+
+.titulo{
+    position:fixed;
+    top: 20px;
+    margin: 30px;
+}
+
+button{
+    position:relative;
+    left:200px;
+}
